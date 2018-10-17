@@ -1,3 +1,7 @@
+## MVVM Module Template
+This template create automatically the `ViewController`, `ViewModel`, and `Repository`
+of the MVVM architechture.
+
 ## Installation
 
 1. If it does not yet exist create the Templates folder under `~/Library/Developer/`
